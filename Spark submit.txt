@@ -1,1 +1,0 @@
-[cloudera@quickstart ~]$ spark-submit --master spark://quickstart.cloudera:7077 --name wordcount --class com.edureka.module4.WordCount edureka-spark-sessions_2.10-1.0.jar /user/cloudera/class4/LICENSE
